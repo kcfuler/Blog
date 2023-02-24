@@ -1,3 +1,20 @@
+---
+layout:     post 
+title:      "Vue的渲染器"
+subtitle:   "Vue.js设计与实现读书笔记"
+description: "vue渲染器实现方案"
+date:       2023-02-24
+author:     "kcfuler"
+URL: "/2023/02/23/vuejs-renderer/"
+categories: [ framework ]
+tags: 
+    - vue
+
+image:      "https://dogefs.s3.ladydaily.com/~/source/unsplash/photo-1676840642714-2ebccd286ca2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+---
+
+
+
 ## 渲染器设计
 
 ### 渲染器与响应式系统
