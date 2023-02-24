@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Kcfuler Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kcfuler.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kcfuler.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vue的渲染器</title>
+      <link>https://kcfuler.github.io/2023/02/23/vuejs-renderer/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kcfuler.github.io/2023/02/23/vuejs-renderer/</guid>
+      <description>渲染器设计 渲染器与响应式系统 响应式系统为渲染器提供数据， 也就是当数据发生变化时，为渲染器提供新的数据供其渲染。 渲染器将响应式系统的数据渲染到</description>
+    </item>
+    
     <item>
       <title>Vue中的响应式系统</title>
       <link>https://kcfuler.github.io/2023/02/23/vuejs-reactivity/</link>
@@ -32,15 +41,6 @@
       
       <guid>https://kcfuler.github.io/2023/02/01/basic-algorithm/</guid>
       <description>基础算法 排序 快排 #include &amp;lt;iostream&amp;gt; using namespace std; const int N = 1e6 + 10; int a[N]; void quick_sort(int a[] , int l , int r){ if( l &amp;gt;= r) return ; int x = a[(r+l)/2] , i = l - 1 , j = r + 1; while( i &amp;lt; j ){ do i ++ ; while( x &amp;gt; a[i]); do j -- ;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://kcfuler.github.io/post/2023-2-24-vuejs-renderer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kcfuler.github.io/post/2023-2-24-vuejs-renderer/</guid>
-      <description>渲染器设计 渲染器与响应式系统 响应式系统为渲染器提供数据， 也就是当数据发生变化时，为渲染器提供新的数据供其渲染。 渲染器将响应式系统的数据渲染到</description>
     </item>
     
   </channel>
