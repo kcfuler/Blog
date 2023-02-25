@@ -6,7 +6,7 @@ description: "vue渲染器实现方案"
 date:       2023-02-24
 author:     "kcfuler"
 URL: "/2023/02/23/vuejs-renderer/"
-categories: [ framework ]
+categories: [ tech ]
 tags: 
     - vue
 

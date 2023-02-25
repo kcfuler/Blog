@@ -6,7 +6,7 @@ description: "学习自acwing基础课"
 date:       2023-02-01
 author:     "kcfuler"
 URL: "/2023/02/01/basic-algorithm/"
-categories: [ notes ]
+categories: [ tech ]
 tags: 
     - cs
 

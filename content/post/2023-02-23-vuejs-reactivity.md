@@ -6,7 +6,7 @@ description: "vue响应式系统中的实现和一些方案的总结"
 date:       2023-02-23
 author:     "kcfuler"
 URL: "/2023/02/23/vuejs-reactivity/"
-categories: [ framework ]
+categories: [ tech ]
 tags: 
     - vue
 
