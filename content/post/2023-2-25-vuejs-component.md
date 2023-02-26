@@ -3,9 +3,9 @@ layout:     post
 title:      "Vue的组件化"
 subtitle:   "Vue.js设计与实现读书笔记"
 description: "vue组件化实现方案"
-date:       2023-02-24
+date:       2023-02-25
 author:     "kcfuler"
-URL: "/2023/02/23/vuejs-component/"
+URL: "/2023/02/25/vuejs-component/"
 categories: [ tech ]
 tags: 
     - vue
@@ -226,7 +226,6 @@ image:      "https://dogefs.s3.ladydaily.com/~/source/unsplash/photo-16772471912
     
 -   instance.props 对象本身是浅响应的（即 shallowReactive）。因此，在更新组件的 props 时，只需要设置 instance.props 对象下的属性值即可触发组件重新渲染。
     
-
 -   绑定上下文对象，组件渲染所需的数据优先从组件状态中获取，然后才从props中获取
     
 
